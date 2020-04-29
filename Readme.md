@@ -11,3 +11,6 @@ react-native run-android
 
 # Manually start the packager
 react-native start
+
+# adding useful UI Components
+npm add react-native-elements
